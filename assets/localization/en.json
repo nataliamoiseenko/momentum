@@ -1,0 +1,117 @@
+{
+  "greeting_morning": "Good morning, ",
+  "greeting_afternoon": "Good afternoon, ",
+  "greeting_evening": "Good evening, ",
+  "greeting_night": "Good night, ",
+  "placeholder": "[Enter name]",
+  "city_default": "Minsk",
+  "lang_options": {
+    "en": "EN",
+    "by": "BY"
+  },
+  "week": [
+    "Sunday",
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday"
+  ],
+  "months": [
+    "January",
+    "February",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September",
+    "October",
+    "November",
+    "December"
+  ],
+  "quotes": [
+    {
+      "text": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+      "author": "Nelson Mandela"
+    },
+    {
+      "text": "The way to get started is to quit talking and begin doing.",
+      "author": "Walt Disney"
+    },
+    {
+      "text": "Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma, which is living with the results of other people's thinking.",
+      "author": "Steve Jobs"
+    },
+    {
+      "text": "If life were predictable it would cease to be life, and be without flavor.",
+      "author": "Eleanor Roosevelt"
+    },
+    {
+      "text": "You become what you believe.",
+      "author": "Oprah Winfrey"
+    },
+    {
+      "text": "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.",
+      "author": "James Cameron"
+    },
+    {
+      "text": "Life is what happens when you're busy making other plans.",
+      "author": "John Lennon"
+    },
+    {
+      "text": "I alone cannot change the world, but I can cast a stone across the water to create many ripples.",
+      "author": "Mother Teresa"
+    },
+    {
+      "text": "It is during our darkest moments that we must focus to see the light.",
+      "author": "Aristotle"
+    },
+    {
+      "text": "Always remember that you are absolutely unique. Just like everyone else.",
+      "author": "Margaret Mead"
+    },
+    {
+      "text": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.",
+      "author": "Helen Keller"
+    },
+    {
+      "text": "Many of life's failures are people who did not realize how close they were to success when they gave up.",
+      "author": "Thomas A. Edison"
+    },
+    {
+      "text": "The only impossible journey is the one you never begin.",
+      "author": "Tony Robbins"
+    },
+    {
+      "text": "The purpose of our lives is to be happy.",
+      "author": "Dalai Lama"
+    },
+    {
+      "text": "Only a life lived for others is a life worthwhile.",
+      "author": "Albert Einstein"
+    },
+    {
+      "text": "Life is trying things to see if they work.",
+      "author": "Ray Bradbury"
+    },
+    {
+      "text": "Keep smiling, because life is a beautiful thing and there's so much to smile about.",
+      "author": "Marilyn Monroe"
+    },
+    {
+      "text": "The future belongs to those who believe in the beauty of their dreams.",
+      "author": "Eleanor Roosevelt"
+    },
+    {
+      "text": "I find that the harder I work, the more luck I seem to have.",
+      "author": "Thomas Jefferson"
+    },
+    {
+      "text": "Just doing as well as you did last time is not good enough.",
+      "author": "Michael Jackson"
+    }
+  ]
+}
